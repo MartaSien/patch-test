@@ -1,0 +1,9 @@
+﻿  Source.c
+C:\Users\msien\Documents\GitHub\Unity\patch-test\Count_bits\Source.c(44,13): warning C4098: 'sortTable': 'void' function returning a value
+C:\Users\msien\Documents\GitHub\Unity\patch-test\Count_bits\Source.c(62,24): warning C4047: 'function': 'int *' differs in levels of indirection from 'int (*)[20]'
+C:\Users\msien\Documents\GitHub\Unity\patch-test\Count_bits\Source.c(62,16): warning C4024: 'printTable': different types for formal and actual parameter 1
+C:\Users\msien\Documents\GitHub\Unity\patch-test\Count_bits\Source.c(64,23): warning C4047: 'function': 'int *' differs in levels of indirection from 'int (*)[20]'
+C:\Users\msien\Documents\GitHub\Unity\patch-test\Count_bits\Source.c(64,15): warning C4024: 'sortTable': different types for formal and actual parameter 1
+C:\Users\msien\Documents\GitHub\Unity\patch-test\Count_bits\Source.c(67,24): warning C4047: 'function': 'int *' differs in levels of indirection from 'int (*)[20]'
+C:\Users\msien\Documents\GitHub\Unity\patch-test\Count_bits\Source.c(67,16): warning C4024: 'printTable': different types for formal and actual parameter 1
+  Count_bits.vcxproj -> C:\Users\msien\Documents\GitHub\Unity\patch-test\Debug\Count_bits.exe
