@@ -52,6 +52,8 @@ void printTable(int* myTable)
 
 int main(void)
 {
+	// zmiana zmiana
+	
     int myTable[TABLE_SIZE];
 
     for (int i = 0; i < TABLE_SIZE; i++) {
